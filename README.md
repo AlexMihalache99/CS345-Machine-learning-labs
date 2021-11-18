@@ -1,1 +1,1 @@
-"# CS345-Machine-learning-labs" 
+CS345 - Machine Learning Labs
